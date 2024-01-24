@@ -11,6 +11,9 @@ robot.arm.wait_until_at_setpoint() # Wait for motion to complete
 # Move the arm backwards by 0.3 meters
 robot.arm.move_by(-0.3)
 robot.push_command()
-time.sleep(2.0)
+time.sleep(4.0)
+
+# Print the current joint angle
+print(robot.arm.status['pos'])
 
 robot.stop()
