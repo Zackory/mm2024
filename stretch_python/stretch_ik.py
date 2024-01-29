@@ -9,7 +9,7 @@ import stretch_body.robot
 # NOTE before running: `python3 -m pip install ikpy graphviz urdfpy`
 
 target_point = [-0.043, -0.441, 0.654]
-target_orientation = ikpy.utils.geometry.rpy_matrix(0.0, 0.0, -np.pi/2) # [_, _, yaw]
+target_orientation = ikpy.utils.geometry.rpy_matrix(0.0, 0.0, -np.pi/2) # [roll, pitch, yaw]
 pretarget_orientation = ikpy.utils.geometry.rpy_matrix(0.0, 0.0, 0.0)
 
 
