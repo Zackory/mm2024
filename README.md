@@ -6,6 +6,8 @@
 
 #### [Course Project Statement](https://docs.google.com/document/d/1-YopWf3rgZIXj8K8etmIaN4xQxTrqCX0CE65OgAPw54/edit?usp=sharing)  
 
+#### [Midterm Grading Rubric](https://docs.google.com/document/d/1Fcd_MO8JpOwfO06iXpZKfY0ATKlladNyrJNt1d8xx5M/edit?usp=sharing)  
+
 
 **Time**: Monday & Wednesday 3:30 - 4:50 PM  
 **Location**: NSH 3002  
