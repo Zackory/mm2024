@@ -10,6 +10,8 @@
 
 #### [Final Presentation Grading Rubric](https://docs.google.com/document/d/1si1jkm06OM3fBmYhkAvitWLPYM2dsrDyS1M7KM-YloY/edit?usp=sharing)  
 
+#### [Final Report Grading Rubric](https://docs.google.com/document/d/1sPBoVYKR543XYfci39k4LwDjfXUWVVxVyaOIcgP0gNs/edit?usp=sharing)  
+
 
 **Time**: Monday & Wednesday 3:30 - 4:50 PM  
 **Location**: NSH 3002  
